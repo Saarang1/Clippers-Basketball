@@ -20,7 +20,7 @@ In 1984, the team relocated to LA, and shared the Staples Center with the Los An
 
 ![greatest clips](https://user-images.githubusercontent.com/114511476/193728153-cbc9a301-d346-4a34-b2b2-e2605d170572.jpg)
 # image_resize
-## super-necessary image
-![image-necessary]
+
 ### Links and More!
 [Your Link Here](https://turbologo.com/articles/los-angeles-clippers-logo/)
+[Your Link Here](https://clutchpoints.com/the-best-clippers-team-in-franchise-history/amp/)
